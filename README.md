@@ -30,6 +30,8 @@ I specialize mainly in Frontend development, where I use leading technologies su
 
 Here my [Website ✨👽](https://www.fernando-hernandez.dev)
 
+If you want more about me, please visit my personal account [Xansiety GitHub](https://github.com/Xansiety)
+
 <br/>
 
 ## Rapidfire  
