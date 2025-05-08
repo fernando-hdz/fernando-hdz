@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="50" alt="Hola"/>  
-  ¡Visita aquí mi <a href="https://github.com/TU_USUARIO" target="_blank">GitHub Personal</a>!  
+  ¡Visit all my public repos on my <a href="https://github.com/xansiety" target="_blank">Personal GitHub</a>!  
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="50" alt="Hola"/>
 </h1>
 
@@ -31,11 +31,13 @@ Hi, I'm Fernando, a simple web developer since 2019.
 I specialize mainly in Frontend development, where I use leading technologies such as React, Vue, and recently Angular, in its latest versions. With which my goal is to create scalable, efficient and reliable applications that offer an optimal user experience. In addition, my experience in Backend development, using technologies such as .NET, complements my skill set and allows me to build robust solutions.
   
 
-<br/>  
-Here my [Website ✨👽](https://www.fernando-hernandez.dev)
-<br/> 
-If you want see all my code repositories, please visit my personal GH: [PERSONAL GITHUB](https://github.com/xansiety)
-<br/>
+<p align="center">
+  🌐 Check out my <a href="https://www.fernando-hernandez.dev" target="_blank">Website ✨👽</a>
+</p>
+
+<p align="center">
+  💻 Want to see all my code? Visit my personal GitHub: <a href="https://github.com/xansiety" target="_blank">xansiety</a>
+</p>
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
