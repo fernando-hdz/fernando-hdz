@@ -69,7 +69,7 @@ I specialize mainly in Frontend development, where I use leading technologies su
 ## Languages and Tools  
 
 ```ts
-import { ILanguages, ILibrary, IFrameworks, IExtras, IDatabases, ITools , ILearn } from '@/models';
+import { ILanguages, ILibrary, IFrameworks, IExtras, IDatabases, ITools , ILearn, IExtras } from '@/models';
 
 export interface ITechnologies {
   languages: ILanguages[];
@@ -81,6 +81,7 @@ export interface ITechnologies {
   cloud: ICloud[];
   devops: IDevops[]; 
   learn: ILearn[];
+  extras: IExtras[];
 }
 
 export const technologiesList: ITechnologies = {
@@ -88,16 +89,17 @@ export const technologiesList: ITechnologies = {
     'C#'
     'TypeScript',
     'JavaScript'
-    'CSS',
+    'CSS'
   ],
   libraries: ['React'],
-  frameworks: ['.Net', 'Vue JS', 'Express JS','Angular', 'NestJS', 'NextJS'],
+  frameworks: ['Angular', '.Net', 'Vue JS', 'Express JS'],
   style: ['TailwindCSS', 'Bootstrap', 'Styled Components', 'SASS',' MUI'],
   databases: ['Microsoft SQL', 'MySQL', 'PosgresSQL'],
   tools: ['VS Code', 'Visual Studio', 'Docker', 'Postman'],
   cloud: ['Azure'],
-  devops: ['GitHub Actions'],  
-  learn: ['Solid Principies', 'Clean Code', 'Tailwind CSS', 'Styled Components', 'Desing Patterns']
+  devops: ['GitHub Actions'],
+  learn: ['Tailwind CSS', 'NestJS', 'NextJS', 'Python', 'FastAPI' ],
+  extras: ['Desing Patterns', 'S.O.L.I.D Principles]
 };
 ```
  
