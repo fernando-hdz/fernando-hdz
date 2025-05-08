@@ -99,7 +99,7 @@ export const technologiesList: ITechnologies = {
   cloud: ['Azure'],
   devops: ['GitHub Actions'],
   learn: ['Tailwind CSS', 'NestJS', 'NextJS', 'Python', 'FastAPI' ],
-  extras: ['Desing Patterns', 'S.O.L.I.D Principles]
+  extras: ['Desing Patterns', 'S.O.L.I.D Principles']
 };
 ```
  
