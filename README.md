@@ -1,5 +1,10 @@
 ## Hey 👋, I'm  {{ Fernando Hernandez }} 
-  
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="50" alt="Hola"/>  
+  ¡Visita aquí mi <a href="https://github.com/TU_USUARIO" target="_blank">GitHub Personal</a>!  
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="50" alt="Hola"/>
+</h1>
 
 <a href="https://github.com/xansiety" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -27,8 +32,8 @@ I specialize mainly in Frontend development, where I use leading technologies su
   
 
 <br/>  
-
 Here my [Website ✨👽](https://www.fernando-hernandez.dev)
+<br/> 
 If you want see all my code repositories, please visit my personal GH: [PERSONAL GITHUB](https://github.com/xansiety)
 <br/>
 
